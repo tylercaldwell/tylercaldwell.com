@@ -1,1 +1,1 @@
-[https://www.tylercaldwell.com](tylercaldwell.com)
+[tylercaldwell.com](http://www.tylercaldwell.com)
