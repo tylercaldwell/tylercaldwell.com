@@ -1,0 +1,16 @@
+.Block-center {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.Block-title {
+  margin-bottom: 0;
+}
+
+.Block-item {
+  display: block;
+}
+
+.Block-item-title {
+  margin-bottom: 0;
+}
